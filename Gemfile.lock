@@ -188,7 +188,11 @@ DEPENDENCIES
   web-console
 
 RUBY VERSION
+<<<<<<< HEAD
    ruby 2.5.3p105
+=======
+   ruby 2.3.4p301
+>>>>>>> contact_form
 
 BUNDLED WITH
    1.16.6
